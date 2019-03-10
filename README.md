@@ -1,2 +1,2 @@
-# Applications-du-Web
-TP d'Applications du Web de PeiP2 (2018-2019)
+# Applications du Web
+- TP d'<em>Applications du Web</em> de PeiP2 (2018-2019).
